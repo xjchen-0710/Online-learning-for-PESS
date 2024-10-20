@@ -7,4 +7,4 @@ The dynamic conditions and internal states of portable energy storage system (PE
 The online learning framework was collaboratively developed by Yongkang Ding, Zhengrun Wu, and Xinjiang Chen while at the Peking University.
 
 # How to cite the Online Learning Framework
-Guannan He, Yongkang Ding, Zhengrun Wu, Xinjiang Chen,  Da Zhang, and Jie Song. Environment-Adaptive Online Learning for Portable Energy Storage Based on Porous Electrode Model. IEEE Transactions on Automation Science and Engineering.
+Guannan He, Yongkang Ding, Zhengrun Wu, Xinjiang Chen,  Da Zhang, and Jie Song. Environment-Adaptive Online Learning for Portable Energy Storage Based on Porous Electrode Model. IEEE Transactions on Automation Science and Engineering (In press).
