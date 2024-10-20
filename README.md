@@ -4,4 +4,4 @@ The dynamic conditions and internal states of portable energy storage system (PE
 
 
 # Online Learning Framework Team
-The online learning framework was collaboratively developed by Yongkang Ding, Zhengrun Wu, and Xinjiang Chen.
+The online learning framework was collaboratively developed by Yongkang Ding, Zhengrun Wu, and Xinjiang Chen while at the Peking University.
